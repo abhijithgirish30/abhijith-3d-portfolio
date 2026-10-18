@@ -11,7 +11,7 @@ focusSecondary: "Intelligence",
   linkedin: "https://www.linkedin.com/in/abhijith-girish-602211213/",
   linkedinLabel: "linkedin.com/in/abhijith-girish-602211213",
   github: "https://github.com/abhijithgirish30",
-  resume: "/Abhijith_Girish_Resume.pdf",
+  resume: "/Abhijith-Girish-Resume.pdf",
 };
 
 export const about =
